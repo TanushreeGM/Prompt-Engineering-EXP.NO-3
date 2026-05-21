@@ -46,9 +46,11 @@ OUTPUT:
 1. Straightforward Prompts:
 
 • “Explain the causes of global warming in simple terms.”
+
 output: Global warming happens because too much heat is trapped in the Earth’s atmosphere. This is mainly caused by human activities that increase greenhouse gases like carbon dioxide and methane. Burning fossil fuels such as coal, petrol, and diesel for electricity, transport, and industries releases large amounts of carbon dioxide. Cutting down forests also worsens the problem because trees absorb carbon dioxide from the air. Pollution from factories, vehicles, and agriculture adds more harmful gases, causing the Earth’s temperature to rise gradually.
 
 • “List four applications of Artificial Intelligence in healthcare.”
+
 output: 1. AI helps doctors diagnose diseases quickly using medical images and test results.
 2. AI-powered robots assist surgeons during complex surgeries with high precision.
 3. Virtual health assistants provide patient support and reminders for medicines.
@@ -58,6 +60,7 @@ output: 1. AI helps doctors diagnose diseases quickly using medical images and t
 2. Tabular Format Prompting:
 
 • “Compare Python, Java, and C++ in a table with columns for speed, platform, and applications.”
+
 output: 
 | Programming Language | Speed     | Platform             | Applications                          |
 | -------------------- | --------- | -------------------- | ------------------------------------- |
@@ -67,6 +70,7 @@ output:
 
 
 • “Create a table showing different types of databases, their features, and applications.”
+
 output:
 | Type of Database         | Features                                    | Applications                                 |
 | ------------------------ | ------------------------------------------- | -------------------------------------------- |
@@ -80,9 +84,11 @@ output:
 3.Preceding Question Prompting:
 
 • “What is digital marketing? How does it help businesses grow?”
+
 output: Digital marketing is the promotion of products and services using digital platforms such as websites, social media, search engines, email, and mobile apps. It helps businesses grow by reaching a larger audience, increasing brand awareness, attracting more customers, and improving sales. Digital marketing also allows companies to communicate directly with customers, analyze market trends, and advertise at lower costs compared to traditional marketing methods.
 
 • “Why is water conservation important? Explain methods to save water.”
+
 output: Water conservation is important because fresh water is limited and essential for drinking, farming, industries, and daily life. Saving water helps prevent shortages, protects the environment, and ensures enough water for future generations.
 
 Methods to save water include repairing leaking taps and pipes, using water-efficient appliances, turning off taps when not in use, collecting rainwater through rainwater harvesting, reusing water for gardening, and avoiding unnecessary wastage of water in homes and industries.
@@ -90,9 +96,11 @@ Methods to save water include repairing leaking taps and pipes, using water-effi
 4. Missing Word Prompting:
 
 • “The largest planet in the solar system is ________.”
+
 output: The largest planet in the solar system is **Jupiter**.
 
 • “A network that connects computers worldwide is called the ________.”
+
 output: A network that connects computers worldwide is called the **Internet**.
 
 RESULT: Thus,the experiment for exploring different type of prompt is completed successfully.
