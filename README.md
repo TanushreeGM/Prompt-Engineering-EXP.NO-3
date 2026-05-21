@@ -43,11 +43,13 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
-1. Straightforward Prompts
+1. Straightforward Prompts:
+
 • “Explain the causes of global warming in simple terms.”
+
 • “List four applications of Artificial Intelligence in healthcare.”
 
-2. Tabular Format Prompting
+3. Tabular Format Prompting
 • “Compare Python, Java, and C++ in a table with columns for speed, platform, and applications.”
 • “Create a table showing different types of databases, their features, and applications.”
 
