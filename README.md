@@ -49,16 +49,22 @@ OUTPUT:
 
 • “List four applications of Artificial Intelligence in healthcare.”
 
-3. Tabular Format Prompting
+2. Tabular Format Prompting:
+
 • “Compare Python, Java, and C++ in a table with columns for speed, platform, and applications.”
+
 • “Create a table showing different types of databases, their features, and applications.”
 
-3.Preceding Question Prompting
+3.Preceding Question Prompting:
+
 • “What is digital marketing? How does it help businesses grow?”
+
 • “Why is water conservation important? Explain methods to save water.”
 
-4. Missing Word Prompting
+4. Missing Word Prompting:
+
 • “The largest planet in the solar system is ________.”
+
 • “A network that connects computers worldwide is called the ________.”
 
 RESULT: Thus,the experiment for exploring different type of prompt is completed successfully.
